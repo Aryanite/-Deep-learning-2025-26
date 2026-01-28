@@ -8,7 +8,7 @@ Academic Year 2025–26
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryanite&repo=Deep-Learning-2025-26&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Aryanite&repo=-Deep-learning-2025-26&theme=radical" />
 </div>
 
 ---
